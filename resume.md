@@ -25,7 +25,7 @@ No work experiences
 ![University of Washington](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/57/2020/08/18125914/hp-gallery-red-squareC-16x12.jpg)
 
 * Junior student at the University of Washington in Seattle, WA. 
-* Major in Geography Data Science. 
+* Major in [Geography Department](https://geography.washington.edu/) Data Science. 
 * GPA: 3.6
 
 ```
